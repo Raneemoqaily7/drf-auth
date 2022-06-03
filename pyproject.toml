@@ -6,6 +6,10 @@ authors = ["Raneemoqaily7 <raneemoqaily7@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Django = "^4.0.5"
+djangorestframework = "^3.13.1"
+djangorestframework-simplejwt = "^5.2.0"
+psycopg2-binary = "^2.9.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
